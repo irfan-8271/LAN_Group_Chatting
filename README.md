@@ -8,13 +8,13 @@ A clean, modular, real-time multi-threaded Java Swing group chat application bui
 
 ## 📸 Application Screenshots
 
-|       1. Server Launch & Startup       |    2. User Connection Login Prompt     |
-| :------------------------------------: | :------------------------------------: |
-| ![Client Irfan](ScreenShots/irfan.png) | ![Client Iqbal](ScreenShots/iqbal.png) |
+|           1. Server Launch & logging           |              2. Client Irfan POV              |
+| :--------------------------------------------: | :-------------------------------------------: |
+| <img src="ScreenShots/server.png" width="300"> | <img src="ScreenShots/Irfan.png" width="220"> |
 
-|      3. Multi-User Real-Time Chat      |       4. Responsive Window Resizing        |
-| :------------------------------------: | :----------------------------------------: |
-| ![Server Logs](ScreenShots/server.png) | ![Client left alert](ScreenShots/left.png) |
+|         3. Multi-User Real-Time Chat          |             4. Client left alert             |
+| :-------------------------------------------: | :------------------------------------------: |
+| <img src="ScreenShots/iqbal.png" width="220"> | <img src="ScreenShots/left.png" width="220"> |
 
 ---
 
